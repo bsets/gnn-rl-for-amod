@@ -1,3 +1,5 @@
+We have experimented with varying the number of episodes between 8000 and 24000 and running Stochastic Gradient Descent, ADAM and ADAMW as optimizers to analyze their effect on the performance of the GCN-DRL algorithm.
+
 # Graph Neural Network Reinforcement Learning for AMoD Systems
 Official implementation of [Graph Neural Network Reinforcement Learning for Autonomous Mobility-on-Demand Systems](https://arxiv.org/abs/2104.11434)
 
